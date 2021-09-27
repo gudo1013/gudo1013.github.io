@@ -1,0 +1,18 @@
+body {
+    background-color: gainsboro;
+}
+
+.topbar {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.topbar-link:visited {
+    color: yellow;
+}
+a:link {
+    color: red;
+}
