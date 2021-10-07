@@ -3,7 +3,7 @@ body {
 }
 
 .topbar {
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.884);
     color: white;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -11,8 +11,44 @@ body {
 }
 
 .topbar-link:visited {
-    color: yellow;
+    color: rgba(255, 255, 255, 0.733);
 }
 a:link {
-    color: red;
+    color: rgba(255, 255, 255, 0.733);
+}
+
+.image{
+    width: 12rem;
+    height: 13rem;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.text-bubble{
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 1.35rem;
+    text-align: center;
+}
+.projects-p{
+    font-size: 1rem;
+}
+
+.carpet-image{
+    width: 16rem;
+    height: 12rem;
+}
+
+.nba-image{
+    width: 11rem;
+    height: 12rem;
+}
+.lex-image{
+    width: 13rem;
+    height: 12rem;
 }
